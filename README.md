@@ -171,27 +171,6 @@ Example response:
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots inside the **docs folder**.
-
-Example:
-
-```
-docs/homepage.png
-docs/products.png
-```
-
-Then reference them like:
-
-```
-![Homepage](docs/homepage.png)
-
-![Products](docs/products.png)
-```
-
----
-
 # 🚧 Future Improvements
 
 * 🔍 Product price comparison across platforms
